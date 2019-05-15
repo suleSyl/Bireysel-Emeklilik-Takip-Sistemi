@@ -1,0 +1,18 @@
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\bin\Debug\WP-ProjectTests.dll
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\bin\Debug\WP-ProjectTests.pdb
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\bin\Debug\WP-Project.exe
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\bin\Debug\WP-Project.pdb
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\obj\Debug\WP-ProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\obj\Debug\WP-ProjectTests.dll
+C:\Users\Hp\Desktop\WP-Project\WP-ProjectTests\obj\Debug\WP-ProjectTests.pdb
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\bin\Debug\WP-ProjectTests.dll
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\bin\Debug\WP-ProjectTests.pdb
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\bin\Debug\WP-Project.exe
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\bin\Debug\WP-Project.pdb
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\obj\Debug\WP-ProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\obj\Debug\WP-ProjectTests.dll
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-ProjectTests\obj\Debug\WP-ProjectTests.pdb

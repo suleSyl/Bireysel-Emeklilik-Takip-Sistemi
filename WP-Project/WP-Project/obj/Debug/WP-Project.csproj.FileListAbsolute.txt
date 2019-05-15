@@ -1,0 +1,30 @@
+C:\Users\Hp\Desktop\WP-Project\WP-Project\bin\Debug\WP-Project.exe.config
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP-Project.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Form1.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Properties.Resources.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP-Project.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\WP-Project\WP-Project\bin\Debug\WP-Project.exe
+C:\Users\Hp\Desktop\WP-Project\WP-Project\bin\Debug\WP-Project.pdb
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP-Project.exe
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP-Project.pdb
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.MDIForm.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Form2.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Form3.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Form5.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Form4.resources
+C:\Users\Hp\Desktop\WP-Project\WP-Project\obj\Debug\WP_Project.Form6.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\bin\Debug\WP-Project.exe.config
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\bin\Debug\WP-Project.exe
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\bin\Debug\WP-Project.pdb
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP-Project.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Form1.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Form2.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Form3.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Form4.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Form5.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Form6.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.MDIForm.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP_Project.Properties.Resources.resources
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP-Project.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP-Project.exe
+C:\Users\Hp\Desktop\S\3. Sınıf\Windows Programlama\WP - Proje\Proje\WP-Project\WP-Project\obj\Debug\WP-Project.pdb
